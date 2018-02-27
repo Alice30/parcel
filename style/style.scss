@@ -1,0 +1,12 @@
+@import "./global/reset.scss";
+@import "./global/variable.scss";
+
+// Import Mixins
+
+@import "./mixins/responsive.scss";
+
+
+// Import Components
+
+@import "./components/header.scss";
+@import "./components/forminput.scss";
